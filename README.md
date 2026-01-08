@@ -96,5 +96,5 @@ This project demonstrates:
 ---
 
 ## 📷 Demo
-*(Add screenshots or GIFs of the Pygame animation here)*
+
 
