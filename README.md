@@ -1,9 +1,5 @@
-
-## 📸 Screenshot
-<img src="images/background_splash.jpg" width="600">
-
 # 🚗 Rush Hour Puzzle Solver – Python
-
+<img src="images/Screenshot 2026-01-08 195631.jpg" width="600">
 ## 🧩 Overview
 This project implements the **Rush Hour puzzle game** and solves it automatically using
 **Artificial Intelligence search algorithms**.
@@ -96,5 +92,8 @@ This project demonstrates:
 ---
 
 ## 📷 Demo
-
-
+<img src="images/Screenshot 2026-01-08 195631.jpg" width="600">
+<img src="images/Screenshot 2026-01-08 195719.jpg" width="600">
+<img src="images/Screenshot 2026-01-08 195759" width="600">
+<img src="images/Screenshot 2026-01-08 195835.jpg" width="600">
+<img src="images/Screenshot 2026-01-08 195914.jpg" width="600">
